@@ -1,7 +1,7 @@
 # Fork pour trier et convertir les challenges du 24hCTF2024
 
 La liste des changements apporté est visible dans le fichier changements.txt
-#------------------------------------------
+
 # Défis de l'édition 2024 du 24@CTF
 
 Ce dépôt git contient les sources des défis de l'édition 2024 du 24@CTF organisé par PolyCyber. Les solutions sont disponibles ici: https://polycyber.io/post/2024-04-07-24ctf-2024-solutions
