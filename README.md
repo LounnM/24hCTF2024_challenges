@@ -1,6 +1,6 @@
 # Fork pour trier et convertir les challenges du 24hCTF2024
 
-La liste des changements apporté est visible dans le fichier changements.txt
+La liste des changements apportés est visible dans le fichier changements.txt
 
 # Défis de l'édition 2024 du 24@CTF
 
